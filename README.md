@@ -1,3 +1,3 @@
 bvenc
 =====
-Tools for efficient encryption
+Tools to provide for efficient encryption
